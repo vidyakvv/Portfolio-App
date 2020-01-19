@@ -79,9 +79,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'portfolio-application',
-        'USER': 'admin',
-        'PASSWORD':'Vidya098',
-        'HOST': 'portfolio.cye6zjaqiwdn.us-west-1.rds.amazonaws.com',
+        'USER': 'Username',
+        'PASSWORD':'****',
+        'HOST': 'host IP',
         'PORT': '3306'
     }
 }
